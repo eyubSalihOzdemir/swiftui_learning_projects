@@ -7,17 +7,23 @@
 
 import SwiftUI
 
+struct Title: ViewModifier {
+    func body(content: Content) -> some View {
+        content
+            .font(.largeTitle)
+            .foregroundColor(.white)
+            .padding()
+            .background(.blue)
+            .clipShape(RoundedRectangle(cornerRadius: 5))
+        
+    }
+}
+
 struct ContentView: View {
+    
     var body: some View {
-        Button("Interseting Button") {
-            // do nothing
-        }
-        .frame(width: 100, height: 100)
-        .background(.red)
-        .frame(width: 200, height: 200)
-        .background(.green)
-        .frame(width: 300, height: 300)
-        .background(.blue)
+        Text("Hello, world!")
+            .modifier(Title())
     }
 }
 
