@@ -20,4 +20,6 @@ I learned about very important widgets types such as VStack, HStack and ZStack. 
 
 <img src="https://user-images.githubusercontent.com/55896033/222266783-4c03c801-ab1b-40e7-a4dd-c5de0704b5f2.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/222266821-9987fec5-c5b2-4dc3-8a93-13c576060d51.png" width=20%>
 
+## Project 3 - Views and Modifiers
 
+A technique project which focuses on how views and modifiers work. I've learned that Structs are more efficient because they do not have to rely on or inherit from any types of parents (unlike classes), they're a bit more restricting than classes so in a way thay're safer to deal with, easy to use and control. That's why SwiftUI relies heavily on structs other than classes. I learned that modifiers work by copies the existing view and wraps with the new feature we gave, so their use of order matters and they can be applied more than once to a view. I also made some code improvements change based on what I've learned on this project.
