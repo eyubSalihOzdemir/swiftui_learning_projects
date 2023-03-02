@@ -29,3 +29,6 @@ A technique project which focuses on **how views and modifiers work**. I've lear
 ## Project 4 - BetterRest
 
 I've always struggled with dates in Flutter, it was a nigtmare to deal with them. In this project I learned that it is so much easier, better and safer to make the framework do the calculations and logic on **Dates**. I learned about **CoreML** framework and **CreateML** application and used them to make a simple prediction about when the user should go to bed for desired amount of sleep.
+
+<img src="https://user-images.githubusercontent.com/55896033/222541653-cbc59086-cdd9-4783-81ce-d13b96f8af3f.png" width=20%>
+
