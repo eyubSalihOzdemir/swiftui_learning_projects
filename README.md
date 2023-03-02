@@ -1,6 +1,7 @@
 # Contents
 * [Project 1 - WeSplit](#Project-1---WeSplit)
 * [Project 2 - Guess the Flag](#Project-2---Guess-the-Flag)
+* [Project 3 - Views and Modifiers](#Project-3---Views-and-Modifiers)
 
 ## Project 1 - WeSplit
 
