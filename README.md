@@ -43,3 +43,5 @@ In this project I've learned about **List, onAppear modifier, what a Bundle is, 
 ## Project 6 - Animations
 
 I learned so much about animations. I'll probably forget about most of them but now I know how and where to look when I got something in my mind about animations. I used to have lots of problems in Flutter when it comes to animations but after this project I think if you can get a grasp of how Swift makes the animations work, it'll be a much easier process.
+
+<img src="https://user-images.githubusercontent.com/55896033/222853174-5c3bb274-e2fe-42f7-9475-2e580869b2c2.gif" width=20%>
