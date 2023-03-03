@@ -32,3 +32,6 @@ I've always struggled with dates in Flutter, it was a nigtmare to deal with them
 
 <img src="https://user-images.githubusercontent.com/55896033/222541653-cbc59086-cdd9-4783-81ce-d13b96f8af3f.png" width=20%>
 
+## Project 5 - WordScramble
+
+In this project I've learned about **List, onAppear modifier, what a Bundle is, fatalError() function, how to use UITextChecker and guard check**.
