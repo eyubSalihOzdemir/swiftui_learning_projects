@@ -3,6 +3,7 @@
 * [Project 2 - Guess the Flag](#Project-2---Guess-the-Flag)
 * [Project 3 - Views and Modifiers](#Project-3---Views-and-Modifiers)
 * [Project 4 - BetterRest](#project-4---betterrest)
+* [Project 5 - WordScramble](#project-5---wordscramble)
 
 ## Project 1 - WeSplit
 
