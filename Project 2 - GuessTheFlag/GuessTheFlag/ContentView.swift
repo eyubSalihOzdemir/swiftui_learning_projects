@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var flagSpinAnimAmount = [0.0, 0.0, 0.0]
+    @State private var flagAnimAmount = [1.0, 1.0, 1.0]
+    
     @State private var showingScore = false
     @State private var showingFinishAlert = false
     @State private var alertTitle = ""
@@ -57,10 +60,24 @@ struct ContentView: View {
                     
                     ForEach(0..<3) { number in
                         Button {
+                            if number == correctAnswer {
+                                withAnimation {
+                                    flagSpinAnimAmount[number] += 360
+                                }
+                                
+                                let myList = [0, 1, 2]
+                                myList.forEach {
+                                    if $0 != correctAnswer {
+                                        flagAnimAmount[$0] += 0.75
+                                    }
+                                }
+                            }
                             flagTapped(number)
                         } label: {
                             FlagImage(imageName: countries[number])
                         }
+                        .opacity(2 - flagAnimAmount[number])
+                        .rotation3DEffect(.degrees(flagSpinAnimAmount[number]), axis: (x: 0, y: 1, z: 0))
                     }
                 }
                 .frame(maxWidth: .infinity)
@@ -116,6 +133,13 @@ struct ContentView: View {
     }
     
     func askQuestion() {
+        let myList = [0, 1, 2]
+        myList.forEach {
+            if $0 != correctAnswer {
+                flagAnimAmount[$0] = 1.0
+            }
+        }
+            
         countries.shuffle()
         correctAnswer = Int.random(in: 0...2)
     }

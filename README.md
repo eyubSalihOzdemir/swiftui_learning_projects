@@ -38,3 +38,6 @@ I've always struggled with dates in Flutter, it was a nigtmare to deal with them
 In this project I've learned about **List, onAppear modifier, what a Bundle is, fatalError() function, how to use UITextChecker and guard check**.
 
 <img src="https://user-images.githubusercontent.com/55896033/222799843-887a2e1c-6d5d-4f2c-aef4-2883233b9706.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/222800079-54d103fd-d319-46df-a0b8-306195519465.png" width=20%>
+
+## Project 6 - Animationsa
+
