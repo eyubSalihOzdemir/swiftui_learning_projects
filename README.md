@@ -4,6 +4,7 @@
 * [Project 3 - Views and Modifiers](#Project-3---Views-and-Modifiers)
 * [Project 4 - BetterRest](#project-4---betterrest)
 * [Project 5 - WordScramble](#project-5---wordscramble)
+* [Project 6 - Animations](#project-6---animations)
 
 ## Project 1 - WeSplit
 
@@ -39,5 +40,6 @@ In this project I've learned about **List, onAppear modifier, what a Bundle is, 
 
 <img src="https://user-images.githubusercontent.com/55896033/222799843-887a2e1c-6d5d-4f2c-aef4-2883233b9706.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/222800079-54d103fd-d319-46df-a0b8-306195519465.png" width=20%>
 
-## Project 6 - Animationsa
+## Project 6 - Animations
 
+I learned so much about animations. I'll probably forget about most of them but now I know how and where to look when I got something in my mind about animations. I used to have lots of problems in Flutter when it comes to animations but after this project I think if you can get a grasp of how Swift makes the animations work, it'll be a much easier process.
