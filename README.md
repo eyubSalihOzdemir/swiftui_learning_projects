@@ -6,6 +6,7 @@
 * [Project 5 - WordScramble](#project-5---wordscramble)
 * [Project 6 - Animations](#project-6---animations)
 
+#
 * [Practice 1 - RockPaperScissors](#practice-1---rockpaperscissors)
 
 ## Project 1 - WeSplit
@@ -51,3 +52,5 @@ I learned so much about animations. I'll probably forget about most of them but 
 ## Practice 1 - RockPaperScissors
 
 It's a simple practice that's been made without tutorials to practice what I've learned so far. The applications choses a random move (rock, paper or scissors) and generates a result player should achieve (win or lose). Player then should make a move to achieve the desired result.
+
+<img src="https://user-images.githubusercontent.com/55896033/222980425-99b5d3f9-e331-4d2e-973f-525e098728ea.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/222980426-4ef680a9-5bb9-4ec2-93cd-7ccdb9dac8e8.png" width=20%>
