@@ -6,6 +6,8 @@
 * [Project 5 - WordScramble](#project-5---wordscramble)
 * [Project 6 - Animations](#project-6---animations)
 
+* [Practice 1 - RockPaperScissors](#practice-1---rockpaperscissors)
+
 ## Project 1 - WeSplit
 
 First project of iOS learning series using [Hacking with Swift](hackingwithswift.com)
@@ -45,3 +47,7 @@ In this project I've learned about **List, onAppear modifier, what a Bundle is, 
 I learned so much about animations. I'll probably forget about most of them but now I know how and where to look when I got something in my mind about animations. I used to have lots of problems in Flutter when it comes to animations but after this project I think if you can get a grasp of how Swift makes the animations work, it'll be a much easier process.
 
 <img src="https://user-images.githubusercontent.com/55896033/222853174-5c3bb274-e2fe-42f7-9475-2e580869b2c2.gif" width=20%>
+
+## Practice 1 - RockPaperScissors
+
+It's a simple practice that's been made without tutorials to practice what I've learned so far. The applications choses a random move (rock, paper or scissors) and generates a result player should achieve (win or lose). Player then should make a move to achieve the desired result.
