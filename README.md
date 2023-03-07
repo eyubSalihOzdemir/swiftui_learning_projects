@@ -5,8 +5,6 @@
 * [Project 4 - BetterRest](#project-4---betterrest)
 * [Project 5 - WordScramble](#project-5---wordscramble)
 * [Project 6 - Animations](#project-6---animations)
-
-#
 * [Practice 1 - RockPaperScissors](#practice-1---rockpaperscissors)
 
 ## Project 1 - WeSplit
@@ -54,3 +52,7 @@ I learned so much about animations. I'll probably forget about most of them but 
 It's a simple practice that's been made without tutorials to practice what I've learned so far. The applications choses a random move (rock, paper or scissors) and generates a result player should achieve (win or lose). Player then should make a move to achieve the desired result.
 
 <img src="https://user-images.githubusercontent.com/55896033/222980425-99b5d3f9-e331-4d2e-973f-525e098728ea.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/222980426-4ef680a9-5bb9-4ec2-93cd-7ccdb9dac8e8.png" width=20%>
+
+## Project 7 - iExpense
+
+In this project I experienced with **UserDefaults, Codable property (to be able to archive and unarchive structs), sheet property (to show new screens), onDelete property (to be able to delete rows from lists), @StateObject - @ObservedObject - @Published (to be able to share data between views and watch their state to update the UI)**. Especially the UserDefaults and Codable part was important because I was wondering what Swift was using to achieve same functionality as SharedPreferences on Android. I also learned that Swift do not want developers to rely heavily on UserDefaults because it makes the app launch slower, should use about half a MB at the worst scenario. I also used MVVM and MobX with @Observable states to be able to observe the state shared between views in Flutter but being able to do this in Swift without using any external package and without any boilerplate code is amazing.
