@@ -1,3 +1,6 @@
+# What is this?
+This is basically my journey of learning iOS. After some inefficient Udemy courses, I discovered Paul Hudson from [hackingwithswift.com](hackingwithswift.com) and I decided to take on his courses. He has a beautiful course called [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) that teaches something everyday with a total of 19 projects. But since I have formal experience on mobile application development with Flutter, instead of following that course day to day I just speed up things and practice as much as I can.
+
 # Contents
 * [Project 1 - WeSplit](#Project-1---WeSplit)
 * [Project 2 - Guess the Flag](#Project-2---Guess-the-Flag)
