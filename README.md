@@ -11,6 +11,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Practice 1 - RockPaperScissors](#practice-1---rockpaperscissors)
 * [Project 7 - iExpense](#project-7---iexpense)
 * [Project 8 - Moonshot](#project-8---moonshot)
+* [Project 9 - Drawing](#project-9---drawing)
 
 ## Project 1 - WeSplit
 
@@ -69,3 +70,7 @@ In this project I experienced with **UserDefaults, Codable property (to be able 
 This is the most complex app I've built in this series so far. I've used **Geometry Reader to adjust the image size dynamically, experienced with ScrollViews, pushed new screens to the stack, created dynamic layouts based on user's selection and most importantly I've delt with JSON data (encode, decode and load to structs).**
 
 <img src="https://user-images.githubusercontent.com/55896033/224078134-0aa0f8c1-5cd2-4a21-af66-4196405621bf.png" width=18%> <img src="https://user-images.githubusercontent.com/55896033/224078182-fb5153e8-d7fe-44f2-977a-6cb78b9aacdb.png" width=18%> <img src="https://user-images.githubusercontent.com/55896033/224078235-764fd4dc-d61c-464c-9c00-f2628db3206c.png" width=18%> <img src="https://user-images.githubusercontent.com/55896033/224078355-904905fd-308d-4676-89bc-25a8fcaf6b24.png" width=18%> <img src="https://user-images.githubusercontent.com/55896033/224078387-1ecf080c-2843-403e-944f-e257c9abc9f7.png" width=18%>
+
+## Project 9 - Drawing
+
+**Paths, shapes, strokes, transforms, drawing group, animating values** are a few things that I've learned in this project. On top of **[Project 6 - Animations](#project-6---animations)**, this project was the cherry on the cake. It summed up the visual things for me and has been a good practice. It was heavy in code so it was also a good practice on not just SwiftUI but also on Swift.
