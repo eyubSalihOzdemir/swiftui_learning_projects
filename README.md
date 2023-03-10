@@ -74,3 +74,5 @@ This is the most complex app I've built in this series so far. I've used **Geome
 ## Project 9 - Drawing
 
 **Paths, shapes, strokes, transforms, drawing group, animating values** are a few things that I've learned in this project. On top of **[Project 6 - Animations](#project-6---animations)**, this project was the cherry on the cake. It summed up the visual things for me and has been a good practice. It was heavy in code so it was also a good practice on not just SwiftUI but also on Swift.
+
+<img src="https://user-images.githubusercontent.com/55896033/224438906-f05aea8f-fb2e-4d37-98bd-a481c9a22c04.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224438918-448c3178-2bda-46a3-884b-05655aaeaa05.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224439032-a66a0f1e-3177-4231-978e-0d20d4b2a80e.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224438967-c8b3440b-ebcd-4363-b597-6d38dd4bb9c8.png" width=20%>
