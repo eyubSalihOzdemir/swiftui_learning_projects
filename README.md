@@ -81,3 +81,5 @@ This is the most complex app I've built in this series so far. I've used **Geome
 ## Practice 2 - KeepTrack
 
 This is an app to keep track of how many times you did an activity. UI is definetly not the best of course but I wanted to practice by myself on **dealing with data models, saving & reading data with UserDefaults and manipulating that data between views**.
+
+<img src="https://user-images.githubusercontent.com/55896033/224543633-56460579-b501-4ae1-b05a-e10b7d0b7777.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224543636-00f271ff-87ae-4e61-9c8e-2566ce8c0eb3.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224543638-0e4b928e-5337-40d4-bbcd-df1ec4d0901a.png" width=20%>
