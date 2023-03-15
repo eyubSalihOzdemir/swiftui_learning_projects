@@ -88,3 +88,5 @@ This is an app to keep track of how many times you did an activity. UI is define
 ## Practice 3 - AsynchPractice
 
 I learned **how to deal with network requests** with a simple app using **iTunes API** and **how to load data to object with Codable protocol**. I'll be experimenting on this important subject later on.
+
+<img src="https://user-images.githubusercontent.com/55896033/225342809-a1cf791f-8e81-4b2a-8af8-148185d4404b.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/225342779-e30f4908-78f8-4099-8a43-a5400e97291f.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/225342753-ae974562-dd80-4230-9c32-dc2cc0d52bf4.png" width=20%>
