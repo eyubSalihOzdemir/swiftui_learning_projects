@@ -13,7 +13,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Project 8 - Moonshot](#project-8---moonshot)
 * [Project 9 - Drawing](#project-9---drawing)
 * [Practice 2 - KeepTrack](#practice-2---keeptrack)
-* [Practice 3 - AsynchPractice](#)
+* [Practice 3 - AsynchPractice](#practice-3---asynchpractice)
 
 ## Project 1 - WeSplit
 
