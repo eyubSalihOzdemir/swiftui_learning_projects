@@ -96,3 +96,4 @@ I learned **how to deal with network requests** with a simple app using **iTunes
 
 This is a projects that send and receives JSON from the internet. In this project I've created a data model class from scratch using @Published properties and then make adjustments to make it conform to Codable protocol. Then I practiced how to encode the data, send to a server and process the response from that server.
 
+<img src="https://user-images.githubusercontent.com/55896033/226112176-5e0ac1f9-5f50-457f-b5be-036f001e1f0a.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/226112210-57115731-b1c4-48a4-837c-353b14eb434f.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/226112219-f4996ed2-cb3d-4b3e-9cc6-f2c187cbe51c.png" width=20%>
