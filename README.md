@@ -15,6 +15,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Practice 2 - KeepTrack](#practice-2---keeptrack)
 * [Practice 3 - AsynchPractice](#practice-3---asynchpractice)
 * [Project 10 - CupcakeCorner](#project-10---cupcakecorner)
+* [Project 11 - Bookworm](#project-11---bookworm)
 
 ## Project 1 - WeSplit
 
