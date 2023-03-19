@@ -100,4 +100,6 @@ This is a projects that send and receives JSON from the internet. In this projec
 
 ## Project 11 - Bookworm
 
-This was a very useful project in order to understand how Core Data simply works to remember user interaction. The next project will go more deeper than this on Core Data.  
+This was a very useful project in order to understand how Core Data simply works to remember user interaction. The next project will go more deeper than this on Core Data.
+
+<img src="https://user-images.githubusercontent.com/55896033/226176266-5b9c5154-da32-4e4f-b724-5852e812323a.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/226176271-3c48885e-b1bd-4639-9f1b-4542d3be5589.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/226176281-951a6cd4-1a2f-4119-a7f5-0bb8c884a217.png" width=20%>
