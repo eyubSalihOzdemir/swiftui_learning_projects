@@ -115,6 +115,6 @@ We took a look at a little bit more deeper on Core Data. **How to add, delete, s
 
 ## Practice 4 - Users
 
-This was a pratice to see if a can make an app that downloads JSON from internet, decodes the data to objects and uses them to present data. It was successful.
+This was a practice to see if a can make an app that downloads JSON from internet, decodes the data to objects and uses them to present data. In the second part of the project, I tried to save those downloaded users to local cache using Core Data. This way our app would still work even offline.
 
 <img src="https://user-images.githubusercontent.com/55896033/227389955-17906b11-b731-4337-9ebc-9d9b8645e4ab.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/227389968-1ec71d18-4256-4bfc-b042-6c455c9c63f3.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/227389982-aa31f5ff-cf62-4f25-9e04-d8738af1edc3.png" width=20%>
