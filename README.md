@@ -123,3 +123,5 @@ This was a practice to see if a can make an app that downloads JSON from interne
 ## Project 13 - Instafilter
 
 I practiced on CoreImage and learned how to link SwiftUI & UIKit.
+
+<img src="https://user-images.githubusercontent.com/55896033/229590329-4e64c18b-9884-47d6-8497-9ff36692f1a0.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/229590342-629c8e88-3167-4a8c-a780-680cef149b4d.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/229590678-5ec363ea-785b-45d5-91ed-a79af7b78fec.png" width=20%>
