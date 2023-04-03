@@ -18,6 +18,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Project 11 - Bookworm](#project-11---bookworm)
 * [Project 12 - CoreDataProject](#project-12---coredataproject)
 * [Practice 4 - Users](#practice-4---users)
+* [Project 13 - Instafilter](#project-13---instafilter)
 
 ## Project 1 - WeSplit
 
@@ -118,3 +119,7 @@ We took a look at a little bit more deeper on Core Data. **How to add, delete, s
 This was a practice to see if a can make an app that downloads JSON from internet, decodes the data to objects and uses them to present data. In the second part of the project, I tried to save those downloaded users to local cache using Core Data. This way our app would still work even offline.
 
 <img src="https://user-images.githubusercontent.com/55896033/227389955-17906b11-b731-4337-9ebc-9d9b8645e4ab.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/227389968-1ec71d18-4256-4bfc-b042-6c455c9c63f3.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/227389982-aa31f5ff-cf62-4f25-9e04-d8738af1edc3.png" width=20%>
+
+## Project 13 - Instafilter
+
+I practiced on CoreImage and learned how to link SwiftUI & UIKit.
