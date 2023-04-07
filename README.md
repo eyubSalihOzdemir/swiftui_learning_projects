@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/55896033/230641673-7e2e9e6d-5e91-450b-a674-51195d30f30e.png)
+
 # What is this?
 This is basically my journey of learning Swift & SwiftIU. After some inefficient Udemy courses, I discovered Paul Hudson from [hackingwithswift.com](https://www.hackingwithswift.com/) (GitHub: [HackingWithSwift](https://github.com/twostraws/HackingWithSwift)) and I decided to take on his courses. He has a beautiful course called [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) that teaches something everyday with a total of 19 projects (I'll be adding a few of mine too). But since I have formal experience on mobile application development with Flutter, instead of following that course day to day I just speed up things and practice as much as I can.
 
