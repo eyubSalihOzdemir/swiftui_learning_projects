@@ -10,20 +10,20 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Project 4 - BetterRest](#project-4---betterrest)
 * [Project 5 - WordScramble](#project-5---wordscramble)
 * [Project 6 - Animations](#project-6---animations)
-* [Challenge 1 - RockPaperScissors](#practice-1---rockpaperscissors)
+* [Challenge 1 - RockPaperScissors](#challange-1---rockpaperscissors)
 * [Project 7 - iExpense](#project-7---iexpense)
 * [Project 8 - Moonshot](#project-8---moonshot)
 * [Project 9 - Drawing](#project-9---drawing)
-* [Challenge 2 - KeepTrack](#practice-2---keeptrack)
-* [Challenge 3 - AsynchPractice](#practice-3---asynchpractice)
+* [Challenge 2 - KeepTrack](#challange-2---keeptrack)
+* [Challenge 3 - AsynchPractice](#challange-3---asynchpractice)
 * [Project 10 - CupcakeCorner](#project-10---cupcakecorner)
 * [Project 11 - Bookworm](#project-11---bookworm)
 * [Project 12 - CoreDataProject](#project-12---coredataproject)
-* [Challenge 4 - Users](#practice-4---users)
+* [Challenge 4 - Users](#challange-4---users)
 * [Project 13 - Instafilter](#project-13---instafilter)
 * [Project 14 - BucketList](#project-14---bucketlist)
 * [Project 15 - Accessibility](#project-15---accessibility)
-* [Challenge 5 - RememberPhotos](#practice-5---rememberphotos)
+* [Challenge 5 - RememberPhotos](#challange-5---rememberphotos)
 
 ## Project 1 - WeSplit
 
@@ -65,7 +65,7 @@ I learned so much about animations. I'll probably forget about most of them but 
 
 <img src="https://user-images.githubusercontent.com/55896033/222853174-5c3bb274-e2fe-42f7-9475-2e580869b2c2.gif" width=20%>
 
-## Practice 1 - RockPaperScissors
+## Challange 1 - RockPaperScissors
 
 It's a simple practice that's been made without tutorials to practice what I've learned so far. The applications choses a random move (rock, paper or scissors) and generates a result player should achieve (win or lose). Player then should make a move to achieve the desired result.
 
@@ -89,13 +89,13 @@ This is the most complex app I've built in this series so far. I've used **Geome
 
 <img src="https://user-images.githubusercontent.com/55896033/224438906-f05aea8f-fb2e-4d37-98bd-a481c9a22c04.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224438918-448c3178-2bda-46a3-884b-05655aaeaa05.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224439032-a66a0f1e-3177-4231-978e-0d20d4b2a80e.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224438967-c8b3440b-ebcd-4363-b597-6d38dd4bb9c8.png" width=20%>
 
-## Practice 2 - KeepTrack
+## Challange 2 - KeepTrack
 
 This is an app to keep track of how many times you did an activity. UI is definetly not the best of course but I wanted to practice by myself on **dealing with data models, saving & reading data with UserDefaults and manipulating that data between views**.
 
 <img src="https://user-images.githubusercontent.com/55896033/224543633-56460579-b501-4ae1-b05a-e10b7d0b7777.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224543636-00f271ff-87ae-4e61-9c8e-2566ce8c0eb3.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/224543638-0e4b928e-5337-40d4-bbcd-df1ec4d0901a.png" width=20%>
 
-## Practice 3 - AsynchPractice
+## Challange 3 - AsynchPractice
 
 I learned **how to deal with network requests** with a simple app using **iTunes API** and **how to load data to object with Codable protocol**. I'll be experimenting on this important subject later on.
 
@@ -119,7 +119,7 @@ We took a look at a little bit more deeper on Core Data. **How to add, delete, s
 
 <img src="https://user-images.githubusercontent.com/55896033/227389785-cafd2dc7-312d-42c5-a1b7-4843270e133c.png" width=18%> <img src="https://user-images.githubusercontent.com/55896033/227389854-64c215d7-6719-4547-9e3e-076feede56b4.png" width=18%> <img src="https://user-images.githubusercontent.com/55896033/227389863-a2a941b4-0913-4825-bf02-939a46ca1a6e.png" width=18%> <img src="https://user-images.githubusercontent.com/55896033/227389869-bd43a1ae-ee43-42bb-bf00-d22b9abf911b.png" width=18%> <img src="https://user-images.githubusercontent.com/55896033/227389879-0912bdef-ab9a-4d2d-b1e6-dd98ae5e80e4.png" width=18%>
 
-## Practice 4 - Users
+## Challange 4 - Users
 
 This was a practice to see if a can make an app that downloads JSON from internet, decodes the data to objects and uses them to present data. In the second part of the project, I tried to save those downloaded users to local cache using Core Data. This way our app would still work even offline.
 
@@ -141,7 +141,7 @@ Things I practiced on in this project: **adding Comparable to custom types, find
 
 I learned some ways on how to make our apps more accessible so that everyone can use it fully regardless of their individual needs. I wasn't able to build a standalone project for this since iPhone simulators does not support accessibility and I do not have a physical Apple device.
 
-## Practice 5 - RememberPhotos
+## Challange 5 - RememberPhotos
 
 This is relativly a more simple app compared to the recent projects. But making everything from scratch by myself and combining skills learned on the topics of **MVVM, CoreData, FileManager, PHPickerViewController** made this one a fairly intense project for me. It imports a picture from the library, asks to user to give a name and then saves it to CoreData. The image is saved to documents with the created id, and the id itself is then saved to CoreData.
 
