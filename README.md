@@ -23,7 +23,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Project 13 - Instafilter](#project-13---instafilter)
 * [Project 14 - BucketList](#project-14---bucketlist)
 * [Project 15 - Accessibility](#project-15---accessibility)
-* [Practice 5 - RememberPhotos]
+* [Practice 5 - RememberPhotos](#practice-5---rememberphotos)
 
 ## Project 1 - WeSplit
 
@@ -144,3 +144,5 @@ I learned some ways on how to make our apps more accessible so that everyone can
 ## Practice 5 - RememberPhotos
 
 This is relativly a more simple app compared to the recent projects. But making everything from scratch by myself and combining skills learned on the topics of **MVVM, CoreData, FileManager, PHPickerViewController** made this one a fairly intense project for me. It imports a picture from the library, asks to user to give a name and then saves it to CoreData. The image is saved to documents with the created id, and the id itself is then saved to CoreData.
+
+<img src="https://user-images.githubusercontent.com/55896033/230779097-b5d47b29-dab8-4b51-be94-4ef750e24492.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779109-acc7a8e3-3efb-4438-914c-5056d466d738.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779115-f3c9fc98-2817-41ed-b218-234c1423db9d.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779126-a6132a8b-76d5-4a21-9e82-6715b72cd27f.png" width=20%> 
