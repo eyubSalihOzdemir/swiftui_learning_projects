@@ -23,6 +23,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Project 13 - Instafilter](#project-13---instafilter)
 * [Project 14 - BucketList](#project-14---bucketlist)
 * [Project 15 - Accessibility](#project-15---accessibility)
+* [Practice 5 - RememberPhotos]
 
 ## Project 1 - WeSplit
 
@@ -139,3 +140,7 @@ Things I practiced on in this project: **adding Comparable to custom types, find
 ## Project 15 - Accessibility
 
 I learned some ways on how to make our apps more accessible so that everyone can use it fully regardless of their individual needs. I wasn't able to build a standalone project for this since iPhone simulators does not support accessibility and I do not have a physical Apple device.
+
+## Practice 5 - RememberPhotos
+
+This is relativly a more simple app compared to the recent projects. But making everything from scratch by myself and combining skills learned on the topics of **MVVM, CoreData, FileManager, PHPickerViewController** made this one a fairly intense project for me. It imports a picture from the library, asks to user to give a name and then saves it to CoreData. The image is saved to documents with the created id, and the id itself is then saved to CoreData.
