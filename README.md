@@ -22,6 +22,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Practice 4 - Users](#practice-4---users)
 * [Project 13 - Instafilter](#project-13---instafilter)
 * [Project 14 - BucketList](#project-14---bucketlist)
+* [Project 15 - Accessibility](#project-15---accessibility)
 
 ## Project 1 - WeSplit
 
@@ -134,3 +135,7 @@ I practiced on CoreImage and learned how to link SwiftUI & UIKit.
 Things I practiced on in this project: **adding Comparable to custom types, finding the documents directory, integrating MapKit, using biometric authentication, secure Data writing**, and much more.
 
 <img src="https://user-images.githubusercontent.com/55896033/230428085-e4cdc5de-22cf-4912-b8bd-41b5d8322caf.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230428101-27c2c7df-4fb9-4a3e-8c78-f1ab6d116f9e.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230428128-bc28de49-55ec-4008-a48b-16ab40ee573e.png" width=20%>
+
+## Project 15 - Accessibility
+
+I learned some ways on how to make our apps more accessible so that everyone can use it fully regardless of their individual needs. I wasn't able to build a standalone project for this since iPhone simulators does not support accessibility and I do not have a physical Apple device.
