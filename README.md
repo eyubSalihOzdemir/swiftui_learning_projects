@@ -185,4 +185,8 @@ This is relativly a more simple app compared to the recent projects. But making 
 
 <img src="https://user-images.githubusercontent.com/55896033/230779097-b5d47b29-dab8-4b51-be94-4ef750e24492.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779109-acc7a8e3-3efb-4438-914c-5056d466d738.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779115-f3c9fc98-2817-41ed-b218-234c1423db9d.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779126-a6132a8b-76d5-4a21-9e82-6715b72cd27f.png" width=20%> 
 
+## Challange 5.1 - RememberPhotos, Map Update
+
+For a second challange there was a requirement to implement MapKit to the project. I added a feature to select where the image was taken on a map view and a feature to show that location on the detail screen view.
+
 [Scroll to Top](#contents)
