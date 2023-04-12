@@ -2,7 +2,7 @@
 //  CoreDataImage+CoreDataProperties.swift
 //  RememberPhotos
 //
-//  Created by Salih Özdemir on 9.04.2023.
+//  Created by Salih Özdemir on 12.04.2023.
 //
 //
 
@@ -18,6 +18,9 @@ extension CoreDataImage {
 
     @NSManaged public var id: UUID?
     @NSManaged public var name: String?
+    @NSManaged public var latitude: Double
+    @NSManaged public var longitude: Double
+    @NSManaged public var hasLocation: Bool
     
     public var wrappedID: UUID {
         id ?? UUID()
@@ -26,7 +29,6 @@ extension CoreDataImage {
     public var wrappedName: String {
         name ?? "Unknown name"
     }
-
 }
 
 extension CoreDataImage : Identifiable {

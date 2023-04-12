@@ -36,6 +36,21 @@ struct ImageEdit: View {
                     Text("Name of the item/person")
                         .textCase(nil)
                 }
+                
+                Section {
+                    NavigationLink {
+                        LocationPickView()
+                    } label: {
+                        Button {
+                            
+                        } label: {
+                            Text("Pin a location")
+                        }
+                    }
+                } header: {
+                    Text("Location of the image (Optional)")
+                        .textCase(nil)
+                }
             }
             .navigationTitle("What/Who is this?")
             .alert(viewModel.alertTitle, isPresented: $viewModel.showingAlert) {
@@ -45,14 +60,12 @@ struct ImageEdit: View {
             }
             .toolbar {
                 Button("Save") {
-                    if viewModel.save(image: image) {
-                        // create CoreData object and save it with id
-                        let newImage = CoreDataImage(context: moc)
-                        newImage.id = viewModel.id
-                        newImage.name = viewModel.name
-                        
-                        try? moc.save()
+                    if viewModel.save(image: image, context: moc) {
                         dismiss()
+                    } else {
+                        viewModel.alertTitle = "Error!"
+                        viewModel.alertMessage = "Can not save file locally."
+                        viewModel.showingAlert = true
                     }
                 }
             }

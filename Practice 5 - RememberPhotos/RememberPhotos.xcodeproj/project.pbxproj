@@ -15,12 +15,14 @@
 		25C224CE29E2C0EF005886DC /* ImageEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C224CD29E2C0EF005886DC /* ImageEdit.swift */; };
 		25C224D129E2DB75005886DC /* CoreDataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 25C224CF29E2DB75005886DC /* CoreDataModel.xcdatamodeld */; };
 		25C224D729E2DBF9005886DC /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C224D629E2DBF9005886DC /* DataController.swift */; };
-		25C224DB29E2DDD7005886DC /* CoreDataImage+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C224D929E2DDD7005886DC /* CoreDataImage+CoreDataClass.swift */; };
-		25C224DC29E2DDD7005886DC /* CoreDataImage+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C224DA29E2DDD7005886DC /* CoreDataImage+CoreDataProperties.swift */; };
 		25C224DE29E2E079005886DC /* FileManager-DocumentsDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C224DD29E2E079005886DC /* FileManager-DocumentsDirectory.swift */; };
 		25C224E229E2E66F005886DC /* ContenView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C224E129E2E66F005886DC /* ContenView-ViewModel.swift */; };
 		25C224E429E2ED47005886DC /* ImageEdit-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C224E329E2ED47005886DC /* ImageEdit-ViewModel.swift */; };
 		25C224E629E2F617005886DC /* DetailedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C224E529E2F617005886DC /* DetailedView.swift */; };
+		25F6653529E6AFA300EC4AB1 /* LocationPickView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F6653429E6AFA300EC4AB1 /* LocationPickView.swift */; };
+		25F6653729E6AFF200EC4AB1 /* LocationFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F6653629E6AFF200EC4AB1 /* LocationFetcher.swift */; };
+		25F6654E29E6CB7100EC4AB1 /* CoreDataImage+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F6654C29E6CB7100EC4AB1 /* CoreDataImage+CoreDataClass.swift */; };
+		25F6654F29E6CB7100EC4AB1 /* CoreDataImage+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F6654D29E6CB7100EC4AB1 /* CoreDataImage+CoreDataProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,12 +35,14 @@
 		25C224CD29E2C0EF005886DC /* ImageEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageEdit.swift; sourceTree = "<group>"; };
 		25C224D029E2DB75005886DC /* CoreDataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataModel.xcdatamodel; sourceTree = "<group>"; };
 		25C224D629E2DBF9005886DC /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
-		25C224D929E2DDD7005886DC /* CoreDataImage+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreDataImage+CoreDataClass.swift"; sourceTree = "<group>"; };
-		25C224DA29E2DDD7005886DC /* CoreDataImage+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreDataImage+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		25C224DD29E2E079005886DC /* FileManager-DocumentsDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManager-DocumentsDirectory.swift"; sourceTree = "<group>"; };
 		25C224E129E2E66F005886DC /* ContenView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContenView-ViewModel.swift"; sourceTree = "<group>"; };
 		25C224E329E2ED47005886DC /* ImageEdit-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ImageEdit-ViewModel.swift"; sourceTree = "<group>"; };
 		25C224E529E2F617005886DC /* DetailedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedView.swift; sourceTree = "<group>"; };
+		25F6653429E6AFA300EC4AB1 /* LocationPickView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPickView.swift; sourceTree = "<group>"; };
+		25F6653629E6AFF200EC4AB1 /* LocationFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationFetcher.swift; sourceTree = "<group>"; };
+		25F6654C29E6CB7100EC4AB1 /* CoreDataImage+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreDataImage+CoreDataClass.swift"; sourceTree = SOURCE_ROOT; };
+		25F6654D29E6CB7100EC4AB1 /* CoreDataImage+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreDataImage+CoreDataProperties.swift"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,8 +83,8 @@
 				25C224E129E2E66F005886DC /* ContenView-ViewModel.swift */,
 				25C224D629E2DBF9005886DC /* DataController.swift */,
 				25C224C529E2BB97005886DC /* ImagePicker.swift */,
-				25C224CF29E2DB75005886DC /* CoreDataModel.xcdatamodeld */,
 				25C224DD29E2E079005886DC /* FileManager-DocumentsDirectory.swift */,
+				25F6653629E6AFF200EC4AB1 /* LocationFetcher.swift */,
 				25C224BB29E2BAE4005886DC /* Assets.xcassets */,
 				25C224BD29E2BAE4005886DC /* Preview Content */,
 			);
@@ -98,8 +102,9 @@
 		25C224D829E2DC77005886DC /* CoreData */ = {
 			isa = PBXGroup;
 			children = (
-				25C224D929E2DDD7005886DC /* CoreDataImage+CoreDataClass.swift */,
-				25C224DA29E2DDD7005886DC /* CoreDataImage+CoreDataProperties.swift */,
+				25F6654C29E6CB7100EC4AB1 /* CoreDataImage+CoreDataClass.swift */,
+				25F6654D29E6CB7100EC4AB1 /* CoreDataImage+CoreDataProperties.swift */,
+				25C224CF29E2DB75005886DC /* CoreDataModel.xcdatamodeld */,
 			);
 			path = CoreData;
 			sourceTree = "<group>";
@@ -108,6 +113,7 @@
 			isa = PBXGroup;
 			children = (
 				25C224CD29E2C0EF005886DC /* ImageEdit.swift */,
+				25F6653429E6AFA300EC4AB1 /* LocationPickView.swift */,
 				25C224E329E2ED47005886DC /* ImageEdit-ViewModel.swift */,
 			);
 			path = Sheets;
@@ -184,17 +190,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				25C224C629E2BB97005886DC /* ImagePicker.swift in Sources */,
-				25C224DB29E2DDD7005886DC /* CoreDataImage+CoreDataClass.swift in Sources */,
 				25C224D129E2DB75005886DC /* CoreDataModel.xcdatamodeld in Sources */,
+				25F6654F29E6CB7100EC4AB1 /* CoreDataImage+CoreDataProperties.swift in Sources */,
 				25C224D729E2DBF9005886DC /* DataController.swift in Sources */,
 				25C224E629E2F617005886DC /* DetailedView.swift in Sources */,
+				25F6653529E6AFA300EC4AB1 /* LocationPickView.swift in Sources */,
 				25C224BA29E2BAE3005886DC /* ContentView.swift in Sources */,
 				25C224DE29E2E079005886DC /* FileManager-DocumentsDirectory.swift in Sources */,
 				25C224E229E2E66F005886DC /* ContenView-ViewModel.swift in Sources */,
+				25F6653729E6AFF200EC4AB1 /* LocationFetcher.swift in Sources */,
 				25C224B829E2BAE3005886DC /* RememberPhotosApp.swift in Sources */,
 				25C224CE29E2C0EF005886DC /* ImageEdit.swift in Sources */,
 				25C224E429E2ED47005886DC /* ImageEdit-ViewModel.swift in Sources */,
-				25C224DC29E2DDD7005886DC /* CoreDataImage+CoreDataProperties.swift in Sources */,
+				25F6654E29E6CB7100EC4AB1 /* CoreDataImage+CoreDataClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -326,6 +334,7 @@
 				DEVELOPMENT_TEAM = K259F5W9P5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We want save where you images are taken.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -355,6 +364,7 @@
 				DEVELOPMENT_TEAM = K259F5W9P5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We want save where you images are taken.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

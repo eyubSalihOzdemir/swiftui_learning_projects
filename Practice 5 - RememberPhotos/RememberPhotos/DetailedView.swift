@@ -6,6 +6,13 @@
 //
 
 import SwiftUI
+import MapKit
+
+struct LocationAnnotation: Identifiable {
+    let id = UUID()
+    var latitude: Double
+    var longitude: Double
+}
 
 extension View {
     func placeholder<Content: View>(
@@ -30,11 +37,18 @@ struct DetailedView: View {
     @State private var textfieldDisabled = true
     @FocusState private var textfieldIsFocused: Bool
     
+    @State private var mapRegion: MKCoordinateRegion
+    private var annotationList = [LocationAnnotation]()
+    
     init(cdImage: CoreDataImage, uiImage: UIImage) {
         self.cdImage = cdImage
         self.uiImage = uiImage
         
+        let location = CLLocationCoordinate2D(latitude: cdImage.latitude, longitude: cdImage.longitude)
+        self._mapRegion = State(wrappedValue: MKCoordinateRegion(center: location, span: MKCoordinateSpan(latitudeDelta: 1, longitudeDelta: 1)))
         self._name = State(wrappedValue: cdImage.wrappedName)
+        
+        self.annotationList.append(LocationAnnotation(latitude: location.latitude, longitude: location.longitude))
     }
     
     @Environment(\.editMode) private var editMode
@@ -51,14 +65,31 @@ struct DetailedView: View {
                 if editMode?.wrappedValue.isEditing == true {
                     TextField("\(cdImage.wrappedName)", text: $name)
                         .focused($textfieldIsFocused)
-                        .font(.title)
                 } else {
                     Text("\(cdImage.wrappedName)")
-                        .font(.title)
                 }
             }
             
             Spacer()
+            
+            if cdImage.hasLocation {
+                
+                Map(coordinateRegion: $mapRegion, annotationItems: annotationList) { annotation in
+                    MapAnnotation(coordinate: CLLocationCoordinate2D(latitude: annotation.latitude, longitude: annotation.longitude)) {
+                        Circle()
+                            .foregroundColor(.white)
+                            .frame(width: 18, height: 18)
+                            .overlay {
+                                Circle()
+                                    .foregroundColor(.blue)
+                                    .scaleEffect(0.6)
+                            }
+                    }
+                }
+                .frame(height: 180)
+                .clipShape(RoundedRectangle(cornerRadius: 5))
+                .disabled(true)
+            }
         }
         .padding()
         .navigationTitle("Image Details")

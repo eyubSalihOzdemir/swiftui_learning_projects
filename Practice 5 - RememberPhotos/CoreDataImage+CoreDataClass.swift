@@ -2,7 +2,7 @@
 //  CoreDataImage+CoreDataClass.swift
 //  RememberPhotos
 //
-//  Created by Salih Özdemir on 9.04.2023.
+//  Created by Salih Özdemir on 12.04.2023.
 //
 //
 
