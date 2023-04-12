@@ -189,4 +189,6 @@ This is relativly a more simple app compared to the recent projects. But making 
 
 For a second challange there was a requirement to implement MapKit to the project. I added a feature to select where the image was taken on a map view and a feature to show that location on the detail screen view.
 
+<img src="https://user-images.githubusercontent.com/55896033/231493148-f833313f-c5d8-453e-bd1c-9064d9ab68c7.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/231493199-fbdde8de-cfa2-461d-99ac-69d616ab0006.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/231493226-d7742396-c858-45b3-a2db-7fd1216342d4.png" width=20%>
+
 [Scroll to Top](#contents)
