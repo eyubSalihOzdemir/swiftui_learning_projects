@@ -10,20 +10,20 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Project 4 - BetterRest](#project-4---betterrest)
 * [Project 5 - WordScramble](#project-5---wordscramble)
 * [Project 6 - Animations](#project-6---animations)
-* [Challenge 1 - RockPaperScissors](#challange-1---rockpaperscissors)
+* [Challenge 1 - RockPaperScissors](#challenge-1---rockpaperscissors)
 * [Project 7 - iExpense](#project-7---iexpense)
 * [Project 8 - Moonshot](#project-8---moonshot)
 * [Project 9 - Drawing](#project-9---drawing)
-* [Challenge 2 - KeepTrack](#challange-2---keeptrack)
-* [Challenge 3 - AsynchPractice](#challange-3---asynchpractice)
+* [Challenge 2 - KeepTrack](#challenge-2---keeptrack)
+* [Challenge 3 - AsynchPractice](#challenge-3---asynchpractice)
 * [Project 10 - CupcakeCorner](#project-10---cupcakecorner)
 * [Project 11 - Bookworm](#project-11---bookworm)
 * [Project 12 - CoreDataProject](#project-12---coredataproject)
-* [Challenge 4 - Users](#challange-4---users)
+* [Challenge 4 - Users](#challenge-4---users)
 * [Project 13 - Instafilter](#project-13---instafilter)
 * [Project 14 - BucketList](#project-14---bucketlist)
 * [Project 15 - Accessibility](#project-15---accessibility)
-* [Challenge 5 - RememberPhotos](#challange-5---rememberphotos)
+* [Challenge 5 - RememberPhotos](#challenge-5---rememberphotos)
 
 ## Project 1 - WeSplit
 
@@ -77,7 +77,7 @@ I learned so much about animations. I'll probably forget about most of them but 
 
 [Scroll to Top](#contents)
 
-## Challange 1 - RockPaperScissors
+## Challenge 1 - RockPaperScissors
 
 It's a simple practice that's been made without tutorials to practice what I've learned so far. The applications choses a random move (rock, paper or scissors) and generates a result player should achieve (win or lose). Player then should make a move to achieve the desired result.
 
@@ -109,7 +109,7 @@ This is the most complex app I've built in this series so far. I've used **Geome
 
 [Scroll to Top](#contents)
 
-## Challange 2 - KeepTrack
+## Challenge 2 - KeepTrack
 
 This is an app to keep track of how many times you did an activity. UI is definetly not the best of course but I wanted to practice by myself on **dealing with data models, saving & reading data with UserDefaults and manipulating that data between views**.
 
@@ -117,7 +117,7 @@ This is an app to keep track of how many times you did an activity. UI is define
 
 [Scroll to Top](#contents)
 
-## Challange 3 - AsynchPractice
+## Challenge 3 - AsynchPractice
 
 I learned **how to deal with network requests** with a simple app using **iTunes API** and **how to load data to object with Codable protocol**. I'll be experimenting on this important subject later on.
 
@@ -149,7 +149,7 @@ We took a look at a little bit more deeper on Core Data. **How to add, delete, s
 
 [Scroll to Top](#contents)
 
-## Challange 4 - Users
+## Challenge 4 - Users
 
 This was a practice to see if a can make an app that downloads JSON from internet, decodes the data to objects and uses them to present data. In the second part of the project, I tried to save those downloaded users to local cache using Core Data. This way our app would still work even offline.
 
@@ -179,15 +179,15 @@ I learned some ways on how to make our apps more accessible so that everyone can
 
 [Scroll to Top](#contents)
 
-## Challange 5 - RememberPhotos
+## Challenge 5 - RememberPhotos
 
 This is relativly a more simple app compared to the recent projects. But making everything from scratch by myself and combining skills learned on the topics of **MVVM, CoreData, FileManager, PHPickerViewController** made this one a fairly intense project for me. It imports a picture from the library, asks to user to give a name and then saves it to CoreData. The image is saved to documents with the created id, and the id itself is then saved to CoreData.
 
 <img src="https://user-images.githubusercontent.com/55896033/230779097-b5d47b29-dab8-4b51-be94-4ef750e24492.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779109-acc7a8e3-3efb-4438-914c-5056d466d738.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779115-f3c9fc98-2817-41ed-b218-234c1423db9d.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/230779126-a6132a8b-76d5-4a21-9e82-6715b72cd27f.png" width=20%> 
 
-## Challange 5.1 - RememberPhotos, Map Update
+## Challenge 5.1 - RememberPhotos, Map Update
 
-For a second challange there was a requirement to implement MapKit to the project. I added a feature to select where the image was taken on a map view and a feature to show that location on the detail screen view.
+For a second challenge there was a requirement to implement MapKit to the project. I added a feature to select where the image was taken on a map view and a feature to show that location on the detail screen view.
 
 <img src="https://user-images.githubusercontent.com/55896033/231493148-f833313f-c5d8-453e-bd1c-9064d9ab68c7.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/231493199-fbdde8de-cfa2-461d-99ac-69d616ab0006.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/231493226-d7742396-c858-45b3-a2db-7fd1216342d4.png" width=20%>
 
