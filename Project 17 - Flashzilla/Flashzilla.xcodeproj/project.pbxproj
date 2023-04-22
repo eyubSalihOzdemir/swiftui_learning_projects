@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		250F5C7E29B40B1100704CCC /* RockPaperScissorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F5C7D29B40B1100704CCC /* RockPaperScissorsApp.swift */; };
-		250F5C8029B40B1100704CCC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F5C7F29B40B1100704CCC /* ContentView.swift */; };
-		250F5C8229B40B1100704CCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 250F5C8129B40B1100704CCC /* Assets.xcassets */; };
-		250F5C8529B40B1100704CCC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 250F5C8429B40B1100704CCC /* Preview Assets.xcassets */; };
+		258FF6F129F4681800F920AA /* FlashzillaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FF6F029F4681800F920AA /* FlashzillaApp.swift */; };
+		258FF6F329F4681800F920AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FF6F229F4681800F920AA /* ContentView.swift */; };
+		258FF6F529F4681800F920AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 258FF6F429F4681800F920AA /* Assets.xcassets */; };
+		258FF6F829F4681800F920AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 258FF6F729F4681800F920AA /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		250F5C7A29B40B1100704CCC /* RockPaperScissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RockPaperScissors.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		250F5C7D29B40B1100704CCC /* RockPaperScissorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissorsApp.swift; sourceTree = "<group>"; };
-		250F5C7F29B40B1100704CCC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		250F5C8129B40B1100704CCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		250F5C8429B40B1100704CCC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		258FF6ED29F4681800F920AA /* Flashzilla.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashzilla.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		258FF6F029F4681800F920AA /* FlashzillaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashzillaApp.swift; sourceTree = "<group>"; };
+		258FF6F229F4681800F920AA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		258FF6F429F4681800F920AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		258FF6F729F4681800F920AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		250F5C7729B40B1100704CCC /* Frameworks */ = {
+		258FF6EA29F4681800F920AA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		250F5C7129B40B1100704CCC = {
+		258FF6E429F4681800F920AA = {
 			isa = PBXGroup;
 			children = (
-				250F5C7C29B40B1100704CCC /* RockPaperScissors */,
-				250F5C7B29B40B1100704CCC /* Products */,
+				258FF6EF29F4681800F920AA /* Flashzilla */,
+				258FF6EE29F4681800F920AA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		250F5C7B29B40B1100704CCC /* Products */ = {
+		258FF6EE29F4681800F920AA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				250F5C7A29B40B1100704CCC /* RockPaperScissors.app */,
+				258FF6ED29F4681800F920AA /* Flashzilla.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		250F5C7C29B40B1100704CCC /* RockPaperScissors */ = {
+		258FF6EF29F4681800F920AA /* Flashzilla */ = {
 			isa = PBXGroup;
 			children = (
-				250F5C7D29B40B1100704CCC /* RockPaperScissorsApp.swift */,
-				250F5C7F29B40B1100704CCC /* ContentView.swift */,
-				250F5C8129B40B1100704CCC /* Assets.xcassets */,
-				250F5C8329B40B1100704CCC /* Preview Content */,
+				258FF6F029F4681800F920AA /* FlashzillaApp.swift */,
+				258FF6F229F4681800F920AA /* ContentView.swift */,
+				258FF6F429F4681800F920AA /* Assets.xcassets */,
+				258FF6F629F4681800F920AA /* Preview Content */,
 			);
-			path = RockPaperScissors;
+			path = Flashzilla;
 			sourceTree = "<group>";
 		};
-		250F5C8329B40B1100704CCC /* Preview Content */ = {
+		258FF6F629F4681800F920AA /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				250F5C8429B40B1100704CCC /* Preview Assets.xcassets */,
+				258FF6F729F4681800F920AA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,39 +70,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		250F5C7929B40B1100704CCC /* RockPaperScissors */ = {
+		258FF6EC29F4681800F920AA /* Flashzilla */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 250F5C8829B40B1100704CCC /* Build configuration list for PBXNativeTarget "RockPaperScissors" */;
+			buildConfigurationList = 258FF6FB29F4681800F920AA /* Build configuration list for PBXNativeTarget "Flashzilla" */;
 			buildPhases = (
-				250F5C7629B40B1100704CCC /* Sources */,
-				250F5C7729B40B1100704CCC /* Frameworks */,
-				250F5C7829B40B1100704CCC /* Resources */,
+				258FF6E929F4681800F920AA /* Sources */,
+				258FF6EA29F4681800F920AA /* Frameworks */,
+				258FF6EB29F4681800F920AA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = RockPaperScissors;
-			productName = RockPaperScissors;
-			productReference = 250F5C7A29B40B1100704CCC /* RockPaperScissors.app */;
+			name = Flashzilla;
+			productName = Flashzilla;
+			productReference = 258FF6ED29F4681800F920AA /* Flashzilla.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		250F5C7229B40B1100704CCC /* Project object */ = {
+		258FF6E529F4681800F920AA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					250F5C7929B40B1100704CCC = {
+					258FF6EC29F4681800F920AA = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-			buildConfigurationList = 250F5C7529B40B1100704CCC /* Build configuration list for PBXProject "RockPaperScissors" */;
+			buildConfigurationList = 258FF6E829F4681800F920AA /* Build configuration list for PBXProject "Flashzilla" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 250F5C7129B40B1100704CCC;
-			productRefGroup = 250F5C7B29B40B1100704CCC /* Products */;
+			mainGroup = 258FF6E429F4681800F920AA;
+			productRefGroup = 258FF6EE29F4681800F920AA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				250F5C7929B40B1100704CCC /* RockPaperScissors */,
+				258FF6EC29F4681800F920AA /* Flashzilla */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		250F5C7829B40B1100704CCC /* Resources */ = {
+		258FF6EB29F4681800F920AA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				250F5C8529B40B1100704CCC /* Preview Assets.xcassets in Resources */,
-				250F5C8229B40B1100704CCC /* Assets.xcassets in Resources */,
+				258FF6F829F4681800F920AA /* Preview Assets.xcassets in Resources */,
+				258FF6F529F4681800F920AA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		250F5C7629B40B1100704CCC /* Sources */ = {
+		258FF6E929F4681800F920AA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				250F5C8029B40B1100704CCC /* ContentView.swift in Sources */,
-				250F5C7E29B40B1100704CCC /* RockPaperScissorsApp.swift in Sources */,
+				258FF6F329F4681800F920AA /* ContentView.swift in Sources */,
+				258FF6F129F4681800F920AA /* FlashzillaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		250F5C8629B40B1100704CCC /* Debug */ = {
+		258FF6F929F4681800F920AA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -205,7 +205,7 @@
 			};
 			name = Debug;
 		};
-		250F5C8729B40B1100704CCC /* Release */ = {
+		258FF6FA29F4681800F920AA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -259,14 +259,14 @@
 			};
 			name = Release;
 		};
-		250F5C8929B40B1100704CCC /* Debug */ = {
+		258FF6FC29F4681800F920AA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"RockPaperScissors/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Flashzilla/Preview Content\"";
 				DEVELOPMENT_TEAM = K259F5W9P5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -280,7 +280,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ozdemir.salih.RockPaperScissors;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ozdemir.salih.Flashzilla;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -288,14 +288,14 @@
 			};
 			name = Debug;
 		};
-		250F5C8A29B40B1100704CCC /* Release */ = {
+		258FF6FD29F4681800F920AA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"RockPaperScissors/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Flashzilla/Preview Content\"";
 				DEVELOPMENT_TEAM = K259F5W9P5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -309,7 +309,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ozdemir.salih.RockPaperScissors;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ozdemir.salih.Flashzilla;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -320,25 +320,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		250F5C7529B40B1100704CCC /* Build configuration list for PBXProject "RockPaperScissors" */ = {
+		258FF6E829F4681800F920AA /* Build configuration list for PBXProject "Flashzilla" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				250F5C8629B40B1100704CCC /* Debug */,
-				250F5C8729B40B1100704CCC /* Release */,
+				258FF6F929F4681800F920AA /* Debug */,
+				258FF6FA29F4681800F920AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		250F5C8829B40B1100704CCC /* Build configuration list for PBXNativeTarget "RockPaperScissors" */ = {
+		258FF6FB29F4681800F920AA /* Build configuration list for PBXNativeTarget "Flashzilla" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				250F5C8929B40B1100704CCC /* Debug */,
-				250F5C8A29B40B1100704CCC /* Release */,
+				258FF6FC29F4681800F920AA /* Debug */,
+				258FF6FD29F4681800F920AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 250F5C7229B40B1100704CCC /* Project object */;
+	rootObject = 258FF6E529F4681800F920AA /* Project object */;
 }
