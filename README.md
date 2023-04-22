@@ -194,3 +194,9 @@ For a second challange there was a requirement to implement MapKit to the projec
 [Scroll to Top](#contents)
 
 ## Project 16 - HotProspects
+
+Thing I played with: **custom environment objects, TabView, Result, objectWillChange, image interpolation, context menus, local notifications, Swift package dependencies, filter() and map()** and many more.
+
+<img src="" width=20%> <img src="" width=20%> <img src="" width=20%> <img src="" width=20%>
+
+[Scroll to Top](#contents)
