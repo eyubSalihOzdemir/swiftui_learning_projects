@@ -25,7 +25,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Project 15 - Accessibility](#project-15---accessibility)
 * [Challenge 5 - RememberPhotos](#challenge-5---rememberphotos)
 * [Project 16 - HotProspects](#project-16---hotprospects)
-* [Project 17 - Flashzilla](#roject-17---flashzilla)
+* [Project 17 - Flashzilla](#project-17---flashzilla)
 
 ## Project 1 - WeSplit
 
@@ -206,3 +206,5 @@ Thing I played with: **custom environment objects, TabView, Result, objectWillCh
 ## Project 17 - Flashzilla
 
 Tha project covered some really great techniques like **gestures, haptics, Combine, and more.**
+
+<img src="https://user-images.githubusercontent.com/55896033/233843682-5c3887a8-9d85-4fe3-b390-1bae53f9064f.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/233843692-3ef23248-a08a-4e8b-a51b-86c0f5b0be40.png" width=20%>
