@@ -26,6 +26,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Challenge 5 - RememberPhotos](#challenge-5---rememberphotos)
 * [Project 16 - HotProspects](#project-16---hotprospects)
 * [Project 17 - Flashzilla](#project-17---flashzilla)
+* [Project 18 - LayoutAndGeometry](#project-18---layoutandgeometry)
 
 ## Project 1 - WeSplit
 
@@ -215,6 +216,6 @@ Tha project covered some really great techniques like **gestures, haptics, Combi
 
 Fndamental knowledge on **how SwiftUI deals with layouts, how views decide what size they need, GeometryReader and creating effects using GeometryReader.**
 
-<img src="" width=20%> <img src="" width=20%>
+<img src="https://user-images.githubusercontent.com/55896033/233865661-4522f118-3344-4bcd-ad0f-6dcb0e8cd830.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/233865664-6858afb8-86d7-4a6a-9687-6166802d0f4e.png" width=20%>
 
 [Scroll to Top](#contents)
