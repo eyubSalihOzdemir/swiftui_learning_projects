@@ -208,3 +208,13 @@ Thing I played with: **custom environment objects, TabView, Result, objectWillCh
 Tha project covered some really great techniques like **gestures, haptics, Combine, and more.**
 
 <img src="https://user-images.githubusercontent.com/55896033/233843682-5c3887a8-9d85-4fe3-b390-1bae53f9064f.png" width=40%> <img src="https://user-images.githubusercontent.com/55896033/233843692-3ef23248-a08a-4e8b-a51b-86c0f5b0be40.png" width=40%>
+
+[Scroll to Top](#contents)
+
+## Project 18 - LayoutAndGeometry
+
+Fndamental knowledge on **how SwiftUI deals with layouts, how views decide what size they need, GeometryReader and creating effects using GeometryReader.**
+
+<img src="" width=20%> <img src="" width=20%>
+
+[Scroll to Top](#contents)
