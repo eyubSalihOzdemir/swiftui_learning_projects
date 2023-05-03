@@ -221,7 +221,7 @@ Fndamental knowledge on **how SwiftUI deals with layouts, how views decide what 
 
 [Scroll to Top](#contents)
 
-## Project 19 = SnowSeeker
+## Project 19 - SnowSeeker
 
 I learned new skills such as **split view layouts, optional alerts, layout with transparent groups, and even an improved way of formatting lists in text**. It also gave you the chance to practice lots of core skills, such as **handling Codable, creating scrolling lists, and more**.
 
