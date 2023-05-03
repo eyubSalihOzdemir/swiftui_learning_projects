@@ -27,7 +27,7 @@ This is basically my journey of learning Swift & SwiftIU. After some inefficient
 * [Project 16 - HotProspects](#project-16---hotprospects)
 * [Project 17 - Flashzilla](#project-17---flashzilla)
 * [Project 18 - LayoutAndGeometry](#project-18---layoutandgeometry)
-* [Project 19 - SnowSeeker](#project-19--snowseeker)
+* [Project 19 - SnowSeeker](#project-19---snowseeker)
 
 ## Project 1 - WeSplit
 
