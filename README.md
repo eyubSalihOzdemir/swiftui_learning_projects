@@ -225,6 +225,6 @@ Fndamental knowledge on **how SwiftUI deals with layouts, how views decide what 
 
 I learned new skills such as **split view layouts, optional alerts, layout with transparent groups, and even an improved way of formatting lists in text**. It also gave you the chance to practice lots of core skills, such as **handling Codable, creating scrolling lists, and more**.
 
-<img src="" width=20%> <img src="" width=20%> <img src="" width=20%>
+<img src="https://user-images.githubusercontent.com/55896033/236022330-89a3307e-5647-4f78-ae91-de1ab13de622.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/236022368-ff6153b1-ad5b-4c25-8e78-1d8dd5a734ed.png" width=20%> <img src="https://user-images.githubusercontent.com/55896033/236022391-4d84d86c-27bb-4f10-a287-b5195f073e27.png" width=20%>
 
 [Scroll to Top](#contents)
